@@ -152,6 +152,10 @@
   .meals-showcase li {
     width: 50%; /*not really needed*/
   }
+  header,
+  .section-testimonials {
+    background-attachment: scroll;
+  }
 }
 
 /* Small Phones from 0 to 480px */
